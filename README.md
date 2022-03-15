@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-  <h2>Hi, I'm Anwar Shad 👋</h2>
+  <h2>Hi, I'm Md Moin👋</h2>
   
 <img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" width="100%" />
   
@@ -43,10 +43,10 @@ In 2020 I have completed my graduation in B.Sc and turn my career into coding an
 <ul align="left">
   <li>🌱 I’m currently learning full stack web development.</li>
   <li>💬 Ask me about data structure and algorithms ,Javascript ,React ,MongoDB ,Express JS ,Node JS</li>
-  <li>📫 How to reach me: <a href="mailto:developershady876@gmail.com">developershady876@gmail.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:developermdmoin@gmail.com">developermdmoin@gmail.com</a></li>
 </ul>
 </div>
   
 ### Connet with me:
-- On Twitter [DeveloperShad](https://twitter.com/developershad)
-- On LinkedIn [DeveloperShad](https://www.linkedin.com/in/developershad)
+- On Twitter [MdMoin]()
+- On LinkedIn [MdMoin](https://www.linkedin.com/in/md-moin-226416221/)
