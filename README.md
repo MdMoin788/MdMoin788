@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @MdMoin
-- 👀 I’m interested in Learning
-- 🌱 I’m a Full Stack WebD developerment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 8809448222
 
 <!---
 DeveloperMdMoin/MdMoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +11,12 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" width="100%" />
   
 <p align="justify">
-In 2020 I have completed my graduation in B.Sc and turn my career into coding and now I am a MERN Stack developer Strong in Javascript & React Love to convert the ideas into reality with my coding skills and want to associate with a reputed organisation.Excellent team player with great interpersonal skills.And looking for enhance my skills.
+I am Md Moin from Araria, Bihar. Recently I have completed my Intermediate of Science. Since my childhood I have been involved in solving software issues in and around my social circle and received a lot of appreciation for this, which in turn motivated me to learn web development.
+
+One of my relatives had recommended Masai School to me and I enrolled myself for the full stack web development course here.
+I gained my strength in Javascript and got Interested in learning different programming languages. I have been involved in two group projects so far and have gained hands on experience on working on these projects.
+
+As a fresher I wish to start my career with a tech savvy organization where I can enhance my skills.
 </p>
   
 <h3>Languages and Tools:</h3>
