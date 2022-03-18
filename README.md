@@ -1,52 +1,52 @@
-
-<!---
-DeveloperMdMoin/MdMoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<div align="center">
-
-  <h2>Hi, I'm Md Moin👋</h2>
-  
 <img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" width="100%" />
-  
-<p align="justify">
-I am Md Moin from Araria, Bihar. Recently I have completed my Intermediate of Science. Since my childhood I have been involved in solving software issues in and around my social circle and received a lot of appreciation for this, which in turn motivated me to learn web development.
+ 
+<!--   <img src="https://gifer.com/JXA0.gif" width="1000" height="400" alt="nothing>  -->
+<!-- ![This is an image](https://image.shutterstock.com/image-vector/set-web-development-doodles-vector-260nw-1305828340.jpg) -->
+<!-- ![GIF](https://github.com/07MdMoin/i.gifer.com/JXA0.gif) -->
 
-One of my relatives had recommended Masai School to me and I enrolled myself for the full stack web development course here.
-I gained my strength in Javascript and got Interested in learning different programming languages. I have been involved in two group projects so far and have gained hands on experience on working on these projects.
+<h1 align="center">Hi 👋 I'm  Md Moin</h1>
+<p align="center">
 
-As a fresher I wish to start my career with a tech savvy organization where I can enhance my skills.
+<h3 align="center">--I'm a Full Stack Web Developer skilled in MERN stack who expolore on writing  to make readable and most  efficient code.</h3>
+<!-- ![This is an image](https://image.shutterstock.com/image-vector/set-web-development-doodles-vector-260nw-1305828340.jpg) -->
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/> -->
+<!-- <img src="https://your-image-url.type" width="100" height="100" align="right>  -->
+<!--  ![ Alt text](https://i.gifer.com/JXA0.gif. gif) -->
+ 
+<!-- <img  src="https://i.gifer.com/JXA0.gif" align="right" alt="coding" width="400"/> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=07haleemazehera&label=Profile%20views&color=0e75b6&style=flat" alt="07haleemazehera" /> </p>
+
+- 🌱 I’m currently learning *MERN Stack*
+
+- 💬 Ask me about *MERN,*
+
+- 📫 How to reach me *developermdmoin@gmail.com*
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JCCdLBUnJswxEOrW24oydYbjM7OnDsdJ/view?usp=sharing](https://drive.google.com/file/d/1JCCdLBUnJswxEOrW24oydYbjM7OnDsdJ/view?usp=sharing)
+
+- ⚡ Fun fact *--A Software Engineer--*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/md-moin-226416221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Moin" height="30" width="40" /></a>
+<a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Md Moin" height="30" width="40" /></a>
 </p>
-  
-<h3>Languages and Tools:</h3>
-<img src="https://camo.githubusercontent.com/da839b79b282a7658a172f07e13496fb18bcf9fa624d061def0e80f47a68ff1d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742e706e67" alt="JAVASCRIPT">
-<img src="https://camo.githubusercontent.com/91624b4794cb98081ea55063865721be4b4399472c81e66b89b37fd07aad1d92/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67" alt="HTML">
-<img src="https://camo.githubusercontent.com/dc75aee770dff630309493116eeebd6a39c7042e4e94780a5e6c8f107bebe76f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67" alt="CSS">
-<img src="https://camo.githubusercontent.com/38b72f440cbf774558b9399b27bf659066e94b1eddc4510a9607ced1f028f6d0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67" alt="REACT JS">
-<img src="https://camo.githubusercontent.com/d3d1874579d4c426185cc3f0b5819d05cad0e3cb0d62ce2b182daea2abab84b3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656475782e706e67" alt="REDUX">
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NODE JS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="80" height="50" alt="MONGODB">
-<img src="https://o.remove.bg/downloads/5b1ded96-4cc1-4b50-9858-f321cc5f64b8/136-1363736_express-js-icon-png-transparent-png-removebg-preview.png" width="60" height="50" alt="EXPRESS JS">
-</div>
-<!-- **DeveloperShad/DeveloperShad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<h3 align="left">Tech Stack
+<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /><br>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/><br>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
 
-<div>
-  <h3 align="left">About me:</h3>
+</p>
+ </p>
 
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with  -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
-<ul align="left">
-  <li>🌱 I’m currently learning full stack web development.</li>
-  <li>💬 Ask me about data structure and algorithms ,Javascript ,React ,MongoDB ,Express JS ,Node JS</li>
-  <li>📫 How to reach me: <a href="mailto:developermdmoin@gmail.com">developermdmoin@gmail.com</a></li>
-</ul>
-</div>
-  
-### Connet with me:
-- On Twitter [MdMoin]()
-- On LinkedIn [MdMoin](https://www.linkedin.com/in/md-moin-226416221/)
