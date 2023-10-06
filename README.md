@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack development**
 
-- 👨‍💻 All of my projects are available at [https://mdmoin.netlify.app/](https://mdmoin.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mdmoin.netlify.app/](https://mds.netlify.app/)
 
 - 💬 Ask me about **html, css, javascript, react, redux, mongoDB, Node.JS, Express.JS**
 
